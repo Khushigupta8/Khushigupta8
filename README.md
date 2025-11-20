@@ -1,4 +1,15 @@
-<h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=12,13,14,15,16,17,18,19,20,21,22,23,24&text=Hi,%20I'm%20%Khushi%20Gupta&fontSize=40&fontColor=fff&animation=fadeIn&2desc=&descSize=20&descAlignY=70)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+
+</div>
+
+
+<!-- Decorative Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="center">A passionate developer from India</h3>
 
 - Hi, I’m **Khushi Gupta**
